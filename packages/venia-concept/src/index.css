@@ -4,6 +4,7 @@
 
 html {
     --venia-border: 224, 224, 224;
+    --venia-border-light: #e6e6e6;
     --venia-font: Muli, -apple-system, BlinkMacSystemFont, sans-serif;
     --venia-grey: 246, 246, 246;
     --venia-teal: 0, 134, 138;

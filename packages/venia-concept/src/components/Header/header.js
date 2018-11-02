@@ -33,7 +33,7 @@ class Header extends Component {
                         <img
                             className={classes.logo}
                             src={logo}
-                            height="24"
+                            height="50"
                             alt="SD"
                             title="Something Digital"
                         />
