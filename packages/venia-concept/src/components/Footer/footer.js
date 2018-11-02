@@ -61,7 +61,7 @@ class Footer extends Component {
                     </p>
                 </div>
                 <div className={classes.copyright}>
-                    <span>© Magento 2018. All rights reserved.</span>
+                    <span>© Something Digital 2018. All rights reserved.</span>
                 </div>
             </footer>
         );

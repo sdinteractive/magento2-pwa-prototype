@@ -33,9 +33,9 @@ class Header extends Component {
                         <img
                             className={classes.logo}
                             src={logo}
-                            height="24"
-                            alt="Venia"
-                            title="Venia"
+                            height="50"
+                            alt="SD"
+                            title="Something Digital"
                         />
                     </Link>
                     <div className={classes.primaryActions}>
