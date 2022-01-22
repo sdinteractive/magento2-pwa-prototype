@@ -104,7 +104,7 @@
     "mkdirp": "^0.5.1",
     "morgan": "^1.9.0",
     "multispinner": "^0.2.1",
-    "node-fetch": "^2.2.0",
+    "node-fetch": "^3.1.1",
     "portscanner": "^2.2.0",
     "prettier": "^1.13.5",
     "prettier-check": "^2.0.0",
